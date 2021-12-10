@@ -1,0 +1,1 @@
+scoreboard players remove timer ika.vote.settings 10
